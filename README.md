@@ -31,3 +31,5 @@ pnpm add -Dw semantic-release @semantic-release/changelog @semantic-release/git 
 添加 `conventional-changelog-cli`
 
 ![](./assets/4.png)
+
+nice
