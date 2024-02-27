@@ -15,6 +15,7 @@
 * fix: update husky ([db1b1a6](https://github.com/Zuowendong/commitlint-cli-demo/commit/db1b1a6))
 * fix: update husky ([d4ca512](https://github.com/Zuowendong/commitlint-cli-demo/commit/d4ca512))
 * fix: update husky ([a6edb7c](https://github.com/Zuowendong/commitlint-cli-demo/commit/a6edb7c))
+* fix: update package ([8e84729](https://github.com/Zuowendong/commitlint-cli-demo/commit/8e84729))
 
 
 
