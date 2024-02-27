@@ -27,3 +27,7 @@ pnpm add -Dw semantic-release @semantic-release/changelog @semantic-release/git 
 ![](./assets/2.png)
 
 执行 `npm pkg set scripts.prepare="husky install"`
+
+添加 `conventional-changelog-cli`
+
+![](./assets/4.png)
