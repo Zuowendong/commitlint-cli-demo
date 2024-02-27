@@ -13,6 +13,7 @@
 
 ### Features
 
+* 测试1 ([2c341c6](https://github.com/Zuowendong/commitlint-cli-demo/commit/2c341c64dbd913417cb3e5c3a36fca2e84bfeeeb))
 * 更新文档内容 ([d57e5df](https://github.com/Zuowendong/commitlint-cli-demo/commit/d57e5df55cf221a0e3f8a0b74303a1c44bc0c3c4))
 * 自动生成changelog ([d727b2a](https://github.com/Zuowendong/commitlint-cli-demo/commit/d727b2a751d6081876c9ba04bc0688114f94cc30))
 * add commitlint ([a208a2d](https://github.com/Zuowendong/commitlint-cli-demo/commit/a208a2d1c3dfc38901f04aafffe33ddde6990858))

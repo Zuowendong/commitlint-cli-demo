@@ -32,4 +32,5 @@ pnpm add -Dw semantic-release @semantic-release/changelog @semantic-release/git 
 
 ![](./assets/4.png)
 
-nice
+1
+2
