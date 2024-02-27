@@ -15,9 +15,10 @@ pnpm add -Dw semantic-release @semantic-release/changelog @semantic-release/git 
 
 # 添加 commit 规范&检查&生成 changelog
 
-安装 `@commitlint/cli`
+安装 `@commitlint/cli`, `@commitlint/config-conventional`
 
 ![](./assets/1.png)
+![](./assets/3.png)
 
 根目录下添加 commitlint.config.js 配置文件
 
