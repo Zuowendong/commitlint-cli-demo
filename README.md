@@ -34,3 +34,4 @@ pnpm add -Dw semantic-release @semantic-release/changelog @semantic-release/git 
 
 1
 2
+3
